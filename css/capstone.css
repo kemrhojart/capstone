@@ -1,4 +1,28 @@
 .footer {
     background-color: #f0f3f2;
+    margin-top: auto!important;
     padding: 1rem 0;
+}
+
+.accordion-item {
+    font-size: 1em;
+    padding-top: 0.25em;
+    padding-right: 0.75em;
+    padding-bottom: 0.25em;
+    padding:  0.75em;
+}
+
+.accordion_table {
+    width: 100%;
+}
+
+.accordion_table td{
+    padding-top: 0.5em;
+    padding-left: 3em;
+    padding-bottom: 0.5em;
+    padding-right: 0.5em;
+}
+
+.object-selected {
+    color: #C41E3A;
 }
