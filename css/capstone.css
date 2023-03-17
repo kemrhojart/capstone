@@ -26,3 +26,29 @@
 .object-selected {
     color: #C41E3A;
 }
+
+.section-my-lg {
+    margin-bottom: 5rem!important;
+    margin-top: 5rem!important;
+}
+
+.form-check {
+    display: block;
+    margin-bottom: 0.125rem;
+    min-height: 1.4rem;
+    padding-left: 1.5em;
+}
+
+.d-grid {
+    display: grid!important;
+}
+
+.img-logo-login {
+    max-width: 80%;
+    height: auto;
+}
+
+.container-login {
+    max-width: 90%;
+    height: auto;
+}
