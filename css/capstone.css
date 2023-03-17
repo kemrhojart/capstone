@@ -28,8 +28,8 @@
 }
 
 .section-my-lg {
-    margin-bottom: 5rem!important;
-    margin-top: 5rem!important;
+    margin-bottom: 2rem!important;
+    margin-top: 2rem!important;
 }
 
 .form-check {
@@ -48,7 +48,32 @@
     height: auto;
 }
 
+.img-shop-item {
+    max-width: 80%;
+    height: auto;
+}
+
 .container-login {
     max-width: 90%;
     height: auto;
+}
+
+.card {
+    word-wrap: break-word;
+    background-clip: border-box;
+    background-color: #fff;
+    border: 1px solid #dfe2e1;
+    border-radius: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    position: relative;
+}
+
+.card-header {
+    border-radius: 0.5rem;
+}
+
+.card-body {
+    padding: 1rem 1rem;
 }
