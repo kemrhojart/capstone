@@ -4,6 +4,16 @@
     padding: 1rem 0;
 }
 
+.newsletter {
+    margin-top: auto!important;
+    padding: 1rem 0;
+}
+
+.border-categories {
+    border: 1px solid #dee2e6!important;
+    border-radius: 0.5rem!important;
+}
+
 .accordion-item {
     font-size: 1em;
     padding-top: 0.25em;
@@ -51,6 +61,25 @@
 .img-shop-item {
     max-width: 80%;
     height: auto;
+}
+
+.img-shop-banner {
+    max-width: 70%;
+    height: auto;
+}
+
+.banner-bg-left {
+    max-width: 97%;
+    background-color: #dfe2e1;
+    border-radius: 1.25rem!important;
+    text-align: right;
+}
+
+.banner-bg-right {
+    max-width: 100%;
+    background-color: #17a2b8;
+    border-radius: 1.25rem!important;
+    text-align: right;
 }
 
 .container-login {
